@@ -1,7 +1,7 @@
 ![Principal](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/principal.jpg) 
 # Hello World (examen)
 
-## 1. Creación de un repositorio
+## 1. Creación de un repositorio en [GitHub](https://github.com/)
 ![1](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/1.png) 
 * Nos situamos en nuestros repositorios, en la parte derecha superior damos clic en ***New***
 ![2](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/2.png) 
