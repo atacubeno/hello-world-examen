@@ -1,11 +1,5 @@
-![Main](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/main.jpg) 
+![Principal](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/principal.jpg) 
 # Hello World (examen)
-
-## 1. Creación de un repositorio
-## 2. Creación de una rama
-## 3. Commits de cambios
-## 4. Pull request
-## 5. Merge de pull request
 
 ## 1. Creación de un repositorio
 ![1](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/1.png) 
