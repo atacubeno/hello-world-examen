@@ -44,6 +44,7 @@
 ![19](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/19.png)
 * También vemos que ya no aparece dentro de nuestras ramas
 ![20](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/20.png)
+* Con los pasos anteriores hemos concluido la actividad
 ![Final](https://github.com/AdalidTacubeno/hello-world-examen/blob/main/images/imagenes/final.jpg)
 
 
