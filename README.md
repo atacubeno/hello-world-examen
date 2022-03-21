@@ -1,15 +1,10 @@
-# hello-world-examen
+# Hello World (examen9
 
-## Acerca de mi
-1. Pasatiempos
-2.  Intereses
-3. Lugares favoritos
+# 1. Creación de un repositorio
+## 2. Creación de una rama
+## 3. Commits de cambios
+## 4. Pull request
+## 5. Merge de pull request
 
-## Pasatiempos
-* Me gusta leer 
 
-## 2. Intereses
-* Me gusta el mundo de la tecnología 
 
-## Lugares favoritos
-* Londres
